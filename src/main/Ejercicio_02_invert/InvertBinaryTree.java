@@ -3,7 +3,7 @@ package main.Ejercicio_02_invert;
 import main.Materia.Models.Node;
 
 /**
- * Clase para invertir un árbol binario (espejo).
+ * Clase para invertir un árbol binario (en forma de espejo).
  */
 public class InvertBinaryTree {
 
